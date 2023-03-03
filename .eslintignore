@@ -1,0 +1,7 @@
+# Ignore everything in the root
+test-reports/
+
+# Un-ignore all of subtree
+!/lib/
+!/bin/
+!/test/
